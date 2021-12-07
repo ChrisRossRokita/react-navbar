@@ -12,13 +12,13 @@ const Header = () => {
             <nav className={classes.header__content__nav}>
                 <ul>
                     <li>
-                        <a href="/">PageOne</a>
+                        <a href="/">Page1</a>
                     </li>
                     <li>
-                        <a href="/">PageTwo</a>
+                        <a href="/">Page2</a>
                     </li>
                     <li>
-                        <a href="/">PageThree</a>
+                        <a href="/">Page3</a>
                     </li>
                 </ul>
                 <button>CTA Page</button>
